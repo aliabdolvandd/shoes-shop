@@ -1,4 +1,4 @@
-import { El } from "../../../src/script/createElement";
+import { El } from "../../../script/createElement";
 
  export const logoElement = El({
     element: "div",

@@ -1,4 +1,4 @@
-import { El } from "../../createElement";
+import { El } from "../../../script/createElement";
 
 const backgroundImage = El({
     element: "div",

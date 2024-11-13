@@ -1,4 +1,4 @@
-import { El } from "../../script/createElement";
+import { El } from "../../../script/createElement";
 import Swiper from "swiper";
 const slides = [
     {
